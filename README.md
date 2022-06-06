@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.io/danrare/huddle-landing-page)
+- Solution URL: [Add solution URL here](https://github.com/danrare/huddle-landing-page)
 - Live Site URL: [View livepage](https://danrare.github.io/huddle-landing-page/)
 
 ## My process
