@@ -1,5 +1,9 @@
 @media screen and (min-width: 768px) {
 
+    .logo{
+        margin-left:4em;
+    }
+
     .container {
         display: flex;
         align-self: center;
@@ -8,14 +12,17 @@
 
     .intro-img-cont {
         text-align: center;
-        margin: 0 auto;
+        margin: 0 auto 1.5em;
     }
 
     .intro-img {
-        width: 50%;
+        width: 90%;
         margin: 0 auto;
     }
 
+}
+
+@media screen and(min-width:960px){
     .intro-text {
         margin: 0 auto;
         width: 45%;
