@@ -14,9 +14,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 This a challenge from frontend mentor to build a huddle landing page.
@@ -35,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.io/danrare/huddle-landing-page)
+- Live Site URL: [View livepage](https://danrare.github.io/huddle-landing-page/)
 
 ## My process
 
@@ -77,9 +75,5 @@ I will love to learn how to use fontawesome kit feature in my future projects si
 - [Example resource 2](https://www.oreilly.com/library/view/css-in-depth/9781617293450/) - This is an amazing book which helped me finally understand how to work with relative units and css reset. I'd recommend it to anyone still learning this concept.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@danrare](https://www.frontendmentor.io/profile/danrare)
+- Twitter - [@Danrare1](https://www.twitter.com/Dan Rare)
