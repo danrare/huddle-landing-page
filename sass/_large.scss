@@ -1,0 +1,50 @@
+@media screen and (min-width: 1300px) {
+    body {
+        background-image: url('../images/bg-desktop.svg');
+        background-color: var(--bg-color);
+        padding: 4em;
+    }
+
+    p {
+        width: 80%;
+    }
+
+
+    h2 {
+        width: 65%;
+        margin-bottom: 0.8em;
+    }
+
+    button {
+        padding: 1em 4em;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        padding-top: 2em;
+        flex-wrap: nowrap;
+    }
+
+    .intro-img {
+        width: 100%;
+    }
+
+    .container .intro-img-cont {
+        margin-bottom: 0;
+        padding: 0;
+    }
+
+    .container .intro-text {
+        padding: 3em;
+        width: 47%;
+        text-align: left;
+    }
+
+    .social-media {
+        text-align: right;
+    }
+
+
+}
