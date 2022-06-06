@@ -140,7 +140,7 @@ p.attribution {
   body {
     background-image: url("../images/bg-desktop.svg");
     background-color: var(--bg-color);
-    padding: 3em 4em;
+    padding: 3em 5em;
   }
   main {
     margin-bottom: 0.5em;
@@ -181,6 +181,7 @@ p.attribution {
   }
   .social-media {
     text-align: right;
+    padding-right: 6em;
   }
 }
 /*# sourceMappingURL=styles.css.map */
